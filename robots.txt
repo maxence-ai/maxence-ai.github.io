@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maxpv.github.io/sitemap.xml
+Sitemap: https://maxence-ai.github.io/sitemap.xml
