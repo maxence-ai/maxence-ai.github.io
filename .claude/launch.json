@@ -4,7 +4,7 @@
     {
       "name": "site",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8091", "--directory", "/Users/mxpv/code/maxpv.github.io"],
+      "runtimeArgs": ["-m", "http.server", "8091", "--directory", "/Users/mxpv/code/maxence-ai.github.io"],
       "port": 8091
     }
   ]
